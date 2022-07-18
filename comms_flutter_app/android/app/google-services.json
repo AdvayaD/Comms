@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063221195670",
+    "project_id": "comms-e70b2",
+    "storage_bucket": "comms-e70b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063221195670:android:19045d39f46e6d9dd4e3b7",
+        "android_client_info": {
+          "package_name": "com.example.comms_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063221195670-pmtgjk7ne3ndddionmckkkqpggkql105.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKFDytDWoRj7OFR-2RGGorHyLa421kO7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063221195670-pmtgjk7ne3ndddionmckkkqpggkql105.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
